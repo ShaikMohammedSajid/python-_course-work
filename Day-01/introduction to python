@@ -1,0 +1,46 @@
+#PROCEDURAL PROGRAMMING LANGUAGE
+    login()
+  select_restaurant()
+  select_food()
+  payment()
+  confirm_order()
+#THIS IS PROCEDURAL LANG BECAUSE EXECUTION HAPPENS STEP BY STEP
+  # OBJECT ORIENTED LANGUAGE
+  product object
+attributes:
+     name
+    price
+    rating
+
+
+methods:
+    add_to_cart()
+    buy_now()
+    add_review()
+#procedural programming memmory allocation
+    name = 'ravi'
+    price = 500
+
+ calculate_bill()
+ print_bill()
+#stack memory
+  name
+  price
+
+  function memory
+
+  calculate_bill()
+  print_bill()
+#oop memory allocation
+  product object
+  name = laptop
+  price = 50000
+  rating = 4.5
+
+#heap memeory
+  product object
+     name
+     price
+     rating
+
+product
